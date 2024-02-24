@@ -8,8 +8,6 @@ Do You Love Me?
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=%F0%9F%A5%B0ANY+TERMINAL+CAN+RUN+THIS+SCRIPT%F0%9F%A5%B0)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=24F709&width=435&lines=%E2%9A%A0%EF%B8%8FONLY+TERMUX+TERMINAL+CAN+RUN+THIS%E2%9A%A0%EF%B8%8F)](https://git.io/typing-svg)
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=YOU+RESPECT+ME%2C+I+RESPECT+YOU%F0%9F%A5%B0;YOU+DESPECT+ME%2C+I+FUCK+YOU%F0%9F%96%95%F0%9F%8F%BB)](https://git.io/typing-svg)
 
